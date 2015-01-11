@@ -1,0 +1,290 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp" >
+        
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/profile" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/profile"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:paddingTop="6dp"
+                android:paddingLeft="10dp" />
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/birthname"
+                    android:textColor="@color/card_color"
+                    android:paddingLeft="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/birthname1"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dateofbirth"
+                    android:paddingLeft="3dp"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dateofbirth1"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+    
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="3dp"
+                    android:text="@string/placeofbirth"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/placeofbirth1"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/genres"
+                    android:paddingLeft="3dp"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/genres1"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card">
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/occupations"
+                    android:paddingLeft="3dp"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:text="@string/occupations1"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/instruments"
+                    android:paddingLeft="3dp"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:text="@string/instruments1"
+                    android:paddingLeft="3dp"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/yearsactive"
+                    android:paddingLeft="3dp"
+                    android:textColor="@color/card_color"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:text="@string/yearsactive1"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="-6dp"
+                android:background="@drawable/background_card" >
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/labels"
+                    android:textColor="@color/card_color"
+                    android:paddingLeft="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="3dp"
+                    android:text="@string/labels1"
+                    android:textColor="#ff000000"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

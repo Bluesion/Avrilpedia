@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Avril Lavigne</item>
+        <item>Channel</item>
+        <item>Discography</item>
+        <item>Filmography</item>
+        <item>Awards</item>
+        <item>Wallpaper</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="color_icon">
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_avrillavigne</item>
+    </string-array>
+
+    <string-array name="theme_icon">
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_channel</item>
+        <item>@drawable/nav_discography</item>
+        <item>@drawable/nav_filmography</item>
+    </string-array>
+
+    <string-array name="nav_drawer_icons">
+        <item>@drawable/nav_avrillavigne</item>
+        <item>@drawable/nav_channel</item>
+        <item>@drawable/nav_discography</item>
+        <item>@drawable/nav_filmography</item>
+        <item>@drawable/nav_award</item>
+        <item>@drawable/nav_wallpaper</item>
+        <item>@drawable/nav_settings</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Dark</item>
+        <item>White</item>
+        <item>Dark : Fullscreen</item>
+        <item>White : Fullscreen</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Tomato</item>
+        <item>Tangerine</item>
+        <item>Pumpkin</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Citron</item>
+        <item>Avocado</item>
+        <item>Pistachio</item>
+        <item>Basil</item>
+        <item>Eucalyptus</item>
+        <item>Sage</item>
+        <item>Peacock</item>
+        <item>Cobalt</item>
+        <item>Blueberry</item>
+        <item>Lavender</item>
+        <item>Wisteria</item>
+        <item>Amethyst</item>
+        <item>Grape</item>
+        <item>Radicchio</item>
+        <item>Cherry Blossom</item>
+        <item>Flamingo</item>
+        <item>Cocoa</item>
+        <item>Graphite</item>
+        <item>Birch</item>
+    </string-array>
+
+    <string-array name="color_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Avril Lavigne</item>
+        <item>канал</item>
+        <item>Дискография</item>
+        <item>Фильмография</item>
+        <item>Награды</item>
+        <item>Обои</item>
+        <item>Настройки</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Черная</item>
+        <item>Белая</item>
+        <item>Черная : Полный</item>
+        <item>Белая : Полный</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Помидор</item>
+        <item>Мандарин</item>
+        <item>Тыква</item>
+        <item>Манго</item>
+        <item>Банан</item>
+        <item>Лимон</item>
+        <item>Авокадо</item>
+        <item>Фисташка</item>
+        <item>Базилик</item>
+        <item>Эвкалипт</item>
+        <item>Шалфей</item>
+        <item>Павлин</item>
+        <item>Кобальт</item>
+        <item>Черника</item>
+        <item>Лаванда</item>
+        <item>Глициния</item>
+        <item>Аметист</item>
+        <item>Виноград</item>
+        <item>Радиккио</item>
+        <item>Цветущая вишня</item>
+        <item>Фламинго</item>
+        <item>Какао</item>
+        <item>Графит</item>
+        <item>Береза</item>
+    </string-array>
+
+</resources>

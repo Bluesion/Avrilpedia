@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item >Avril Lavigne</item>
+        <item >Canale</item>
+        <item >Discografia</item>
+        <item >Filmografia</item>
+        <item >Premi</item>
+        <item >Sfondi</item>
+        <item >Impostazioni</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Nero</item>
+        <item>Bianco</item>
+        <item>Nero : pieno</item>
+        <item>Bianco : pieno</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Pomodoro</item>
+        <item>Mandarino</item>
+        <item>Zucca</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Cedro</item>
+        <item>Avocado</item>
+        <item>Pistacchio</item>
+        <item>Basilico</item>
+        <item>Eucalipto</item>
+        <item>Salvia</item>
+        <item>Pavone</item>
+        <item>Cobalto</item>
+        <item>Mirtillo</item>
+        <item>Lavanda</item>
+        <item>Glicine</item>
+        <item>Ametista</item>
+        <item>Vinaccia</item>
+        <item>Radicchio</item>
+        <item>Fiore di ciliegio</item>
+        <item>Fenicottero</item>
+        <item>Cacao</item>
+        <item>Grafite</item>
+        <item>Betulla</item>
+    </string-array>
+
+</resources>

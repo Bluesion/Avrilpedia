@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:orientation="vertical"
+        android:id="@+id/channel"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:layout_weight="10.0" >
+
+        <WebView
+            android:id="@+id/webview"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="6.0" />
+
+        <com.illusion.avrillavigne.customlibrary.MaterialDesign.ProgressBarCircularIndeterminate
+            android:id="@+id/progressBarCircularIndetermininate"
+            android:gravity="center"
+            android:layout_width="37.0dip"
+            android:layout_height="37.0dip"
+            android:layout_weight="1.0"
+            android:background="?attr/colorPrimary" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/no_internet_connection"
+        android:gravity="center_horizontal|center_vertical|center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/alert" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/sns_error" />
+
+    </LinearLayout>
+
+</FrameLayout>

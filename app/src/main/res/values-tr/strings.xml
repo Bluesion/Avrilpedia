@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_message">Uygulamayı kapatmak için geri tuşuna tekrar basın</string>
+    <string name="back">Geri</string>
+    <string name="forward">ileri</string>
+    <string name="refresh">Yenile</string>
+    <string name="profile">Profil</string>
+    <string name="award">Ödülleri</string>
+    <string name="discography">Müzik Kariyeri</string>
+    <string name="filmography">Filmografi</string>
+    <string name="channel">Kanal</string>
+    <string name="letgo">1st Albüm</string>
+    <string name="undermyskin">2nd Albüm</string>
+    <string name="thebestdamnthing">3rd Albüm</string>
+    <string name="goodbyelullaby">4th Albüm</string>
+    <string name="avrillavigne">5th Albüm</string>
+    <string name="birthname">Doğum Adı</string>
+    <string name="dateofbirth">Doğum Tarihi</string>
+    <string name="dateofbirth1">27 Eylül 1984</string>
+    <string name="placeofbirth">Doğum yeri</string>
+    <string name="placeofbirth1">Belleville, Ontario, Kanada</string>
+    <string name="genres">Tarzlar</string>
+    <string name="genres1">Modern rock, pop punk, pop rock, power pop, teen pop, alternatif rock</string>
+    <string name="occupations">Meslekler</string>
+    <string name="occupations1">Şarkıcı, Söz yazarı, Gitarist, Aktris, Model, tasarımcı</string>
+    <string name="instruments">Çalgılar</string>
+    <string name="instruments1">Gitar, Piyano</string>
+    <string name="yearsactive">Etkin yılları</string>
+    <string name="yearsactive1">1999 ~ günümüz</string>
+    <string name="labels">Plak şirketi</string>
+    <string name="labels1">Epic Records</string>
+    <string name="setwallpaper">Duvar kağıdı yap</string>
+    <string name="license">Açık kaynak lisansı</string>
+    <string name="close">Yakın</string>
+    <string name="channel_title">Dikkat</string>
+    <string name="wallpaper">Duvar kağıtları</string>
+    <string name="wall_title">ihbar</string>
+    <string name="version">Uygulama Sürüm</string>
+    <string name="changelog">Değişiklik Günlüğü</string>
+    <string name="theme">Tema</string>
+    <string name="color">Renk</string>
+    <string name="setting">Ayarlar</string>
+    <string name="support">Destek</string>
+    <string name="download">Indir</string>
+</resources>

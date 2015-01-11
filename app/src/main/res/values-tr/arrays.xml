@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Avril Lavigne</item>
+        <item>Kanal</item>
+        <item>Müzik Kariyeri</item>
+        <item>Filmografi</item>
+        <item>Ödülleri</item>
+        <item>Duvar kağıtları</item>
+        <item>Ayarlar</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Siyah</item>
+        <item>Beyaz</item>
+        <item>Siyah : tam</item>
+        <item>Beyaz : tam</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Domates</item>
+        <item>Mandalina</item>
+        <item>Kabak</item>
+        <item>Mango</item>
+        <item>Muz</item>
+        <item>Limon</item>
+        <item>Avokado</item>
+        <item>Fıstık</item>
+        <item>Fesleğen</item>
+        <item>Okaliptus</item>
+        <item>Ada Çayı</item>
+        <item>Tavus Kuşu</item>
+        <item>Çini Mavisi</item>
+        <item>Yaban Mersini</item>
+        <item>Lavanta</item>
+        <item>Leylak</item>
+        <item>Ametist</item>
+        <item>Üzüm</item>
+        <item>Vişne</item>
+        <item>Gül Kurusu</item>
+        <item>Flamingo</item>
+        <item>Kakao</item>
+        <item>Grafit</item>
+        <item>Huş Ağacı</item>
+    </string-array>
+
+</resources>

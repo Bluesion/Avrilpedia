@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item >에이브릴 라빈</item>
+        <item >채널</item>
+        <item >디스코그래피</item>
+        <item >필모그래피</item>
+        <item >수상실적</item>
+        <item >배경화면</item>
+        <item >설정</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>블랙</item>
+        <item>화이트</item>
+        <item>블랙 : 전체화면</item>
+        <item>화이트 : 전체화면</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>토마토</item>
+        <item>귤</item>
+        <item>호박</item>
+        <item>망고</item>
+        <item>바나나</item>
+        <item>병아리</item>
+        <item>아보카도</item>
+        <item>피스타치오</item>
+        <item>바질</item>
+        <item>유칼립투스</item>
+        <item>세이지</item>
+        <item>공작</item>
+        <item>코발트</item>
+        <item>블루베리</item>
+        <item>라벤더</item>
+        <item>연보라</item>
+        <item>자수정</item>
+        <item>포도</item>
+        <item>자주</item>
+        <item>벚꽃</item>
+        <item>연분홍</item>
+        <item>코코아</item>
+        <item>흑연</item>
+        <item>자작나무</item>
+    </string-array>
+
+</resources>

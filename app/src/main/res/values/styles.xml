@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Illusion" parent="Theme.AppCompat">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="White_dark" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="Illusion_full" parent="Theme.AppCompat">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="White_dark_full" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+    </style>
+
+    <style name="Tomato">
+        <item name="colorPrimary">#d40000</item>
+        <item name="colorControlNormal">#d40000</item>
+        <item name="colorControlActivated">#d40000</item>
+        <item name="colorControlHighlight">#d40000</item>
+    </style>
+
+    <style name="Tangerine">
+        <item name="colorPrimary">#f3501d</item>
+        <item name="colorControlNormal">#f3501d</item>
+        <item name="colorControlActivated">#f3501d</item>
+        <item name="colorControlHighlight">#f3501d</item>
+    </style>
+
+    <style name="Pumpkin">
+        <item name="colorPrimary">#ee6b00</item>
+        <item name="colorControlNormal">#ee6b00</item>
+        <item name="colorControlActivated">#ee6b00</item>
+        <item name="colorControlHighlight">#ee6b00</item>
+    </style>
+
+    <style name="Mango">
+        <item name="colorPrimary">#ef9200</item>
+        <item name="colorControlNormal">#ef9200</item>
+        <item name="colorControlActivated">#ef9200</item>
+        <item name="colorControlHighlight">#ef9200</item>
+    </style>
+
+    <style name="Banana">
+        <item name="colorPrimary">#f5be25</item>
+        <item name="colorControlNormal">#f5be25</item>
+        <item name="colorControlActivated">#f5be25</item>
+        <item name="colorControlHighlight">#f5be25</item>
+    </style>
+
+    <style name="Citron">
+        <item name="colorPrimary">#e2cb4c</item>
+        <item name="colorControlNormal">#e2cb4c</item>
+        <item name="colorControlActivated">#e2cb4c</item>
+        <item name="colorControlHighlight">#e2cb4c</item>
+    </style>
+
+    <style name="Avocado">
+        <item name="colorPrimary">#bfc932</item>
+        <item name="colorControlNormal">#bfc932</item>
+        <item name="colorControlActivated">#bfc932</item>
+        <item name="colorControlHighlight">#bfc932</item>
+    </style>
+
+    <style name="Pistachio">
+        <item name="colorPrimary">#7bb241</item>
+        <item name="colorControlNormal">#7bb241</item>
+        <item name="colorControlActivated">#7bb241</item>
+        <item name="colorControlHighlight">#7bb241</item>
+    </style>
+
+    <style name="Basil">
+        <item name="colorPrimary">#0a7f42</item>
+        <item name="colorControlNormal">#0a7f42</item>
+        <item name="colorControlActivated">#0a7f42</item>
+        <item name="colorControlHighlight">#0a7f42</item>
+    </style>
+
+    <style name="Eucalyptus">
+        <item name="colorPrimary">#009587</item>
+        <item name="colorControlNormal">#009587</item>
+        <item name="colorControlActivated">#009587</item>
+        <item name="colorControlHighlight">#009587</item>
+    </style>
+
+    <style name="Sage">
+        <item name="colorPrimary">#33b679</item>
+        <item name="colorControlNormal">#33b679</item>
+        <item name="colorControlActivated">#33b679</item>
+        <item name="colorControlHighlight">#33b679</item>
+    </style>
+
+    <style name="Peacock">
+        <item name="colorPrimary">#029ae4</item>
+        <item name="colorControlNormal">#029ae4</item>
+        <item name="colorControlActivated">#029ae4</item>
+        <item name="colorControlHighlight">#029ae4</item>
+    </style>
+
+    <style name="Cobalt">
+        <item name="colorPrimary">#4184f3</item>
+        <item name="colorControlNormal">#4184f3</item>
+        <item name="colorControlActivated">#4184f3</item>
+        <item name="colorControlHighlight">#4184f3</item>
+    </style>
+
+    <style name="Blueberry">
+        <item name="colorPrimary">#3f5ca9</item>
+        <item name="colorControlNormal">#3f5ca9</item>
+        <item name="colorControlActivated">#3f5ca9</item>
+        <item name="colorControlHighlight">#3f5ca9</item>
+    </style>
+
+    <style name="Lavender">
+        <item name="colorPrimary">#7885ca</item>
+        <item name="colorControlNormal">#7885ca</item>
+        <item name="colorControlActivated">#7885ca</item>
+        <item name="colorControlHighlight">#7885ca</item>
+    </style>
+
+    <style name="Wisteria">
+        <item name="colorPrimary">#b29cda</item>
+        <item name="colorControlNormal">#b29cda</item>
+        <item name="colorControlActivated">#b29cda</item>
+        <item name="colorControlHighlight">#b29cda</item>
+    </style>
+
+    <style name="Amethyst">
+        <item name="colorPrimary">#9e69af</item>
+        <item name="colorControlNormal">#9e69af</item>
+        <item name="colorControlActivated">#9e69af</item>
+        <item name="colorControlHighlight">#9e69af</item>
+    </style>
+
+    <style name="Grape">
+        <item name="colorPrimary">#8e26aa</item>
+        <item name="colorControlNormal">#8e26aa</item>
+        <item name="colorControlActivated">#8e26aa</item>
+        <item name="colorControlHighlight">#8e26aa</item>
+    </style>
+
+    <style name="Radicchio">
+        <item name="colorPrimary">#ac1356</item>
+        <item name="colorControlNormal">#ac1356</item>
+        <item name="colorControlActivated">#ac1356</item>
+        <item name="colorControlHighlight">#ac1356</item>
+    </style>
+
+    <style name="Cherry_Blossom">
+        <item name="colorPrimary">#d71a5f</item>
+        <item name="colorControlNormal">#d71a5f</item>
+        <item name="colorControlActivated">#d71a5f</item>
+        <item name="colorControlHighlight">#d71a5f</item>
+    </style>
+
+    <style name="Flamingo">
+        <item name="colorPrimary">#e88b83</item>
+        <item name="colorControlNormal">#e88b83</item>
+        <item name="colorControlActivated">#e88b83</item>
+        <item name="colorControlHighlight">#e88b83</item>
+    </style>
+
+    <style name="Cocoa">
+        <item name="colorPrimary">#785447</item>
+        <item name="colorControlNormal">#785447</item>
+        <item name="colorControlActivated">#785447</item>
+        <item name="colorControlHighlight">#785447</item>
+    </style>
+
+    <style name="Graphite">
+        <item name="colorPrimary">#636363</item>
+        <item name="colorControlNormal">#636363</item>
+        <item name="colorControlActivated">#636363</item>
+        <item name="colorControlHighlight">#636363</item>
+    </style>
+
+    <style name="Birch">
+        <item name="colorPrimary">#a79b8e</item>
+        <item name="colorControlNormal">#a79b8e</item>
+        <item name="colorControlActivated">#a79b8e</item>
+        <item name="colorControlHighlight">#a79b8e</item>
+    </style>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Avril Lavigne</item>
+        <item>Canal</item>
+        <item>Biografía</item>
+        <item>Videografía</item>
+        <item>Premios</item>
+        <item>Fondos de pantalla</item>
+        <item>Ajustes</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Negro</item>
+        <item>Blanco</item>
+        <item>Negro : completo</item>
+        <item>Blanco : completo</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Tomate</item>
+        <item>Mandarina</item>
+        <item>Zanahoria</item>
+        <item>Melocotón</item>
+        <item>Amarillo huevo</item>
+        <item>Mostaza</item>
+        <item>Verde lima</item>
+        <item>Verde pistacho</item>
+        <item>Verde musgo</item>
+        <item>Verde eucalipto</item>
+        <item>Verde esmeralda</item>
+        <item>Azul turquesa</item>
+        <item>Azul eléctrico</item>
+        <item>Azul arándano</item>
+        <item>Lavanda</item>
+        <item>Malva</item>
+        <item>Amatista</item>
+        <item>Morado intenso</item>
+        <item>Granate</item>
+        <item>Rosa palo</item>
+        <item>Rosa chicle</item>
+        <item>Marrón chocolate</item>
+        <item>Grafito</item>
+        <item>Gris topo</item>
+    </string-array>
+
+</resources>

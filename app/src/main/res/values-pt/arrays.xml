@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item >Avril Lavigne</item>
+        <item >Canal</item>
+        <item >Discografia</item>
+        <item >Filme</item>
+        <item >Prêmios</item>
+        <item >Papéis de parede</item>
+        <item >Definições</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Escuro</item>
+        <item>Branco</item>
+        <item>Escuro : completo</item>
+        <item>Branco : completo</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Tomate</item>
+        <item>Tangerina</item>
+        <item>Abóbora</item>
+        <item>Manga</item>
+        <item>Banana</item>
+        <item>Limão</item>
+        <item>Abacate</item>
+        <item>Pistache</item>
+        <item>Manjericão</item>
+        <item>Eucalipto</item>
+        <item>Sálvia</item>
+        <item>Pavão</item>
+        <item>Cobalto</item>
+        <item>Mirtilo</item>
+        <item>Lavanda</item>
+        <item>Glicínia</item>
+        <item>Ametista</item>
+        <item>Uva</item>
+        <item>Magenta</item>
+        <item>Cerejeira</item>
+        <item>Flamingo</item>
+        <item>Chocolate</item>
+        <item>Grafite</item>
+        <item>Bétula</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Avril Lavigne</item>
+        <item>Canal</item>
+        <item>Discographie</item>
+        <item>Filmographie</item>
+        <item>Récompenses</item>
+        <item>Fonds d\'écran</item>
+        <item>Paramètres</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Noir</item>
+        <item>Blanc </item>
+        <item>Noir : plein</item>
+        <item>Blanc : plein</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>Rouge tomate</item>
+        <item>Mandarine</item>
+        <item>Orange citrouille</item>
+        <item>Mangue</item>
+        <item>Jaune banane</item>
+        <item>Jaune citron</item>
+        <item>Vert avocat</item>
+        <item>Vert pistache</item>
+        <item>Vert basilic</item>
+        <item>Vert eucalyptus</item>
+        <item>Gris-vert</item>
+        <item>Bleu paon</item>
+        <item>Cobalt</item>
+        <item>Myrtille</item>
+        <item>Lavande</item>
+        <item>Glycine</item>
+        <item>Améthyste</item>
+        <item>Violet raisin</item>
+        <item>Magenta</item>
+        <item>Vieux rose</item>
+        <item>Rose clair</item>
+        <item>Cacao</item>
+        <item>Gris graphite</item>
+        <item>Gris taupe</item>
+    </string-array>
+
+</resources>

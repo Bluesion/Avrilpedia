@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_message">Appuyez de nouveau sur la touche pour fermer l\'application</string>
+    <string name="back">Arrière</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="profile">Profil</string>
+    <string name="award">Récompenses</string>
+    <string name="discography">Discographie</string>
+    <string name="filmography">Filmographie</string>
+    <string name="channel">Canal</string>
+    <string name="filmo_0">Sabrina, l\'apprentie sorcière</string>
+    <string name="filmo_3">Nos voisins, les hommes</string>
+    <string name="birthname">Nom de naissance</string>
+    <string name="dateofbirth">Date de naissance</string>
+    <string name="dateofbirth1">27 septembre 1984</string>
+    <string name="placeofbirth">Lieu de naissance</string>
+    <string name="placeofbirth1">Belleville, Ontario, Canada</string>
+    <string name="genres1">Pop rock, pop punk, rock alternatif</string>
+    <string name="occupations">Activité principale</string>
+    <string name="occupations1">Auteur-compositrice-interprète, chanteuse, musicienne, actrice, styliste</string>
+    <string name="instruments1">Guitare, piano</string>
+    <string name="yearsactive">Années actives</string>
+    <string name="yearsactive1">Depuis 1999</string>
+    <string name="setwallpaper">Déf. fond écran</string>
+    <string name="license">Licence</string>
+    <string name="changelog">Journal des modifications</string>
+    <string name="close">Près</string>
+    <string name="version">L\'application Version</string>
+    <string name="channel_title">Prudence</string>
+    <string name="wall_title">Avis</string>
+    <string name="wallpaper">Fonds d\'écran</string>
+    <string name="genres">Genre</string>
+    <string name="theme">Thème</string>
+    <string name="color">Couleur</string>
+    <string name="setting">Paramètres</string>
+    <string name="download">Télécharger</string>
+</resources>

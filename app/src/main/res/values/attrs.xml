@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsTextAllCaps" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="MaterialRippleLayout">
+        <attr name="rippleColor" format="color" localization="suggested" />
+        <attr name="rippleDimension" format="dimension" localization="suggested" />
+        <attr name="rippleOverlay" format="boolean" localization="suggested" />
+        <attr name="rippleAlpha" format="float" localization="suggested" />
+        <attr name="rippleDuration" format="integer" localization="suggested" />
+        <attr name="rippleFadeDuration" format="integer" localization="suggested" />
+        <attr name="rippleHover" format="boolean" localization="suggested" />
+        <attr name="rippleBackground" format="color" localization="suggested" />
+        <attr name="rippleDelayClick" format="boolean" localization="suggested" />
+        <attr name="ripplePersistent" format="boolean" localization="suggested" />
+        <attr name="rippleInAdapter" format="boolean" localization="suggested" />
+    </declare-styleable>
+
+    <declare-styleable name="IconPreference">
+        <attr name="entryIcons" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="DialogPreference">
+        <attr name="android:dialogTitle" />
+        <attr name="android:dialogMessage" />
+        <attr name="android:dialogIcon" />
+        <attr name="android:positiveButtonText" />
+        <attr name="android:negativeButtonText" />
+        <attr name="dialogTitleColor" format="color|reference" />
+        <attr name="dialogButtonTextColor" format="color|reference" />
+        <attr name="showValueAsSummary" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="ListPreference">
+        <attr name="android:entries" />
+        <attr name="android:entryValues" />
+    </declare-styleable>
+
+    <declare-styleable name="SeekBarPreference">
+        <attr name="android:max" />
+        <attr name="android:summary" />
+        <attr name="android:defaultValue" />
+        <attr name="showProgress" format="boolean" />
+        <attr name="min" format="integer" />
+        <attr name="decimals" format="integer" />
+        <attr name="suffix" format="string" />
+        <attr name="floatingPointSeparator" format="string" />
+        <attr name="stepSize" format="integer" />
+    </declare-styleable>
+
+</resources>

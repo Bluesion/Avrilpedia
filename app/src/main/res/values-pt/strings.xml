@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">De volta</string>
+    <string name="forward">Para a frente</string>
+    <string name="refresh">Atualização</string>
+    <string name="profile">Um perfil</string>
+    <string name="award">Prêmios</string>
+    <string name="discography">Discografia</string>
+    <string name="filmography">Filme</string>
+    <string name="channel">Canal</string>
+    <string name="letgo">1st álbum</string>
+    <string name="undermyskin">2nd álbum</string>
+    <string name="thebestdamnthing">3rd álbum</string>
+    <string name="goodbyelullaby">4th álbum</string>
+    <string name="avrillavigne">5th álbum</string>
+    <string name="birthname">Nome completo</string>
+    <string name="dateofbirth">Nascimento</string>
+    <string name="dateofbirth1">27 de setembro de 1984</string>
+    <string name="placeofbirth">Origem</string>
+    <string name="placeofbirth1">Belleville, Ontário, Canadá</string>
+    <string name="genres">Gênero(s)</string>
+    <string name="genres1">Pop punk, pop rock, alternativo rock</string>
+    <string name="occupations">Ocupação(ões)</string>
+    <string name="occupations1">Cantora, compositora, designer de moda, atriz</string>
+    <string name="instruments">Instrumento(s)</string>
+    <string name="instruments1">Vocal, guitarra, piano, violão, bateria</string>
+    <string name="yearsactive">Período em atividade</string>
+    <string name="yearsactive1">1999 ~ atualmente</string>
+    <string name="labels">Gravadora(s)</string>
+    <string name="setwallpaper">Def. pap. parede</string>
+    <string name="license">Licença</string>
+    <string name="changelog">Mudanças</string>
+    <string name="close">Cancelar</string>
+    <string name="version">Aplicação Versão</string>
+    <string name="channel_title">Cautela</string>
+    <string name="wall_title">Aviso</string>
+    <string name="wallpaper">Papel de parede</string>
+    <string name="exit_message">Pressione a tecla voltar novamente para fechar o aplicativo</string>
+    <string name="theme">Tema</string>
+    <string name="color">Cor</string>
+    <string name="setting">Definições</string>
+    <string name="support">Suporte</string>
+    <string name="download">Baixar</string>
+</resources>

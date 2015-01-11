@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">Indietro</string>
+    <string name="forward">Avanti</string>
+    <string name="refresh">Rinfrescare</string>
+    <string name="profile">Profilo</string>
+    <string name="award">Premi</string>
+    <string name="discography">Discografia</string>
+    <string name="filmography">Filmografia</string>
+    <string name="channel">Canale</string>
+    <string name="filmo_0">Sabrina, vita da strega</string>
+    <string name="filmo_3">La gang del bosco</string>
+    <string name="filmo_4">Identikit di un delitto</string>
+    <string name="birthname">Nome e cognome</string>
+    <string name="dateofbirth">Data di nascita</string>
+    <string name="placeofbirth">Luogo di nascita</string>
+    <string name="placeofbirth1">Belleville, Ontario, Canada</string>
+    <string name="genres">Genere</string>
+    <string name="genres1">Pop punk, pop rock, alternative rock</string>
+    <string name="occupations">Occupazioni</string>
+    <string name="occupations1">Singer-songwriter, musician, fashion designer</string>
+    <string name="instruments">Strumento</string>
+    <string name="instruments1">Chitarra, pianoforte, batteria</string>
+    <string name="yearsactive">Periodo di attività</string>
+    <string name="yearsactive1">1999 ~ in attività</string>
+    <string name="labels">Etichetta</string>
+    <string name="setwallpaper">Imposta sfondo</string>
+    <string name="license">Licenza</string>
+    <string name="version">Applicazione Versione</string>
+    <string name="channel_title">Attenzione</string>
+    <string name="wall_title">Avviso</string>
+    <string name="wallpaper">Sfondo</string>
+    <string name="exit_message">Premete nuovamente il tasto Indietro per chiudere l\'applicazione</string>
+    <string name="theme">Tema</string>
+    <string name="color">Colore</string>
+    <string name="thebestdamnthing"></string>
+    <string name="changelog">Registro delle modifiche</string>
+    <string name="setting">Impostazioni</string>
+    <string name="support">Supporto</string>
+    <string name="download">Scarica</string>
+</resources>

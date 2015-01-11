@@ -1,0 +1,135 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical|top"
+        android:orientation="vertical"
+        android:paddingTop="6dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/album_2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:text="Under My Skin (2004)"
+            android:textColor="#ff000000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:text="Track List"
+            android:textColor="#ff000000"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="6dp"
+            android:text="1. Take Me Away"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="2. Together"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="3. Don't Tell Me (1st single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="4. He Wasn't (4th single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="5. How Does It Feel"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="6dp"
+            android:text="6. My Happy Ending (2nd single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="7. Nobody's Home (3rd single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="8. Forgotton"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="9. Who Knows"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="10. Fall To Pieces"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="11. Freak Out"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="12. Slipped Away"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </LinearLayout>
+    
+</ScrollView>

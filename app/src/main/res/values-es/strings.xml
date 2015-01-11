@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_message">Vuelva a pulsar la tecla Atrás para cerrar la aplicación</string>
+    <string name="back">Espalda</string>
+    <string name="forward">Adelante</string>
+    <string name="refresh">Refrescar</string>
+    <string name="profile">Perfil</string>
+    <string name="award">Premios</string>
+    <string name="discography">Biografía</string>
+    <string name="filmography">Videografía</string>
+    <string name="channel">Canal</string>
+    <string name="letgo">1st álbum</string>
+    <string name="goodbyelullaby">4th álbum</string>
+    <string name="filmo_0">Sabrina, la bruja adolescente</string>
+    <string name="filmo_3">Vecinos invasores</string>
+    <string name="filmo_4">El caso Wells</string>
+    <string name="birthname">Nombre real</string>
+    <string name="dateofbirth">Fecha de nacimiento</string>
+    <string name="dateofbirth1">27 de septiembre de 1984</string>
+    <string name="placeofbirth">Lugar de nacimiento</string>
+    <string name="placeofbirth1">Belleville, Ontario, Canadá</string>
+    <string name="genres">Género</string>
+    <string name="genres1">Pop punk, pop rock, rock alternativo</string>
+    <string name="occupations">Ocupación</string>
+    <string name="occupations1">Cantante, compositora, productora musical, Actriz de voz y diseñadora de moda</string>
+    <string name="instruments">Instrumento</string>
+    <string name="instruments1">Voz, guitarra, batería y piano</string>
+    <string name="yearsactive1">1999 ~ Presente</string>
+    <string name="labels">Discográfica</string>
+    <string name="setwallpaper">Definir fondo</string>
+    <string name="license">Licencia de código abierto</string>
+    <string name="changelog">Lista de cambios</string>
+    <string name="close">Cerca</string>
+    <string name="version">Aplicación Versión</string>
+    <string name="channel_title">Precaución</string>
+    <string name="wall_title">Aviso</string>
+    <string name="wallpaper">Fondos de pantalla</string>
+    <string name="yearsactive">Período de Actividad</string>
+    <string name="thebestdamnthing">3rd álbum</string>
+    <string name="undermyskin">2nd álbum</string>
+    <string name="theme">Tema</string>
+    <string name="avrillavigne">5th álbum</string>
+    <string name="setting">Ajustes</string>
+    <string name="support">Soporte</string>
+    <string name="download">Descargar</string>
+</resources>

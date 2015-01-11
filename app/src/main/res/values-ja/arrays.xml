@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item >Avril Lavigne</item>
+        <item >チャンネル</item>
+        <item >ディスコグラフィー</item>
+        <item >フィルモグラフィー</item>
+        <item >賞</item>
+        <item >壁紙</item>
+        <item >設定</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>黒</item>
+        <item>白</item>
+        <item>黒 : フル</item>
+        <item>白 : フル</item>
+    </string-array>
+
+    <string-array name="color_entries">
+        <item>トマト</item>
+        <item>ミカン</item>
+        <item>カボチャ</item>
+        <item>マンゴー</item>
+        <item>バナナ</item>
+        <item>レモン</item>
+        <item>アボカド</item>
+        <item>ピスタチオ</item>
+        <item>バジル</item>
+        <item>ユーカリ</item>
+        <item>セージ</item>
+        <item>ピーコック</item>
+        <item>コバルト</item>
+        <item>ブルーベリー</item>
+        <item>ラベンダー</item>
+        <item>ライラック</item>
+        <item>アメジスト</item>
+        <item>ブドウ</item>
+        <item>ワイン</item>
+        <item>ローズ</item>
+        <item>フラミンゴ</item>
+        <item>ココア</item>
+        <item>グラファイト</item>
+        <item>シラカバ</item>
+    </string-array>
+
+</resources>

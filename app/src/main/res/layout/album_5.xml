@@ -1,0 +1,142 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical|top"
+        android:orientation="vertical"
+        android:paddingTop="6dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/album_5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:text="Avril Lavigne (2013)"
+            android:textColor="#ff000000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:text="Track List"
+            android:textColor="#ff000000"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="6dp"
+            android:text="1. Rock n Roll (2nd single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="2. Here's To Never Growing Up (1st single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="3. 17"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="4. Bitchin' Summer"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="5. Let Me Go (feat. Chad Kroeger)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="6dp"
+            android:text="6. Give You What You Like"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="7. Bad Girl (feat. Marilyn Manson)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="8. Hello Kitty (4th Asian single)"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="9. You Ain't Seen Nothin' Yet"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="10. Sippin on Sunshine"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="11. Hello Heartache"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="12. Falling Fast"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff000000"
+            android:paddingTop="3dp"
+            android:text="13. Hush Hush"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </LinearLayout>
+    
+</ScrollView>

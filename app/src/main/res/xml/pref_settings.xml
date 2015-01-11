@@ -1,0 +1,56 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:illusion="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+            android:title="@string/setting">
+        
+        <Preference
+            android:title="@string/version"
+            android:summary="BUILD_I'm_With_You" />
+
+        <com.illusion.avrillavigne.customlibrary.MaterialPreference.EditTextPreference
+            android:dialogTitle="Set Name"
+            android:key="userName"
+            android:title="Set Name"
+            illusion:dialogButtonTextColor="?attr/colorPrimary"
+            illusion:showValueAsSummary="true" />
+
+        <com.illusion.avrillavigne.customlibrary.MaterialPreference.ListPreference
+            android:defaultValue="0"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values"
+            android:dialogTitle="@string/theme"
+            android:key="theme"
+            android:title="@string/theme"
+            illusion:dialogButtonTextColor="?attr/colorPrimary"
+            illusion:showValueAsSummary="true" />
+
+        <com.illusion.avrillavigne.IconListPreference
+            android:title="@string/color"
+            android:summary="%s"
+            android:defaultValue="0"
+            android:key="actionbar"
+            android:entries="@array/color_entries"
+            android:entryValues="@array/color_values"
+            illusion:entryIcons="@array/color_icon"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/app_name">
+
+        <Preference
+            android:title="@string/license"
+            android:key="license" />
+
+        <Preference
+            android:title="@string/changelog"
+            android:key="changelog" />
+
+        <Preference
+            android:title="@string/support"
+            android:key="support" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

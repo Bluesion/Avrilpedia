@@ -1,0 +1,88 @@
+﻿================ Korean ================
+
+[BUILD_Complicated]
+
+- 라이센스 보기 기능 추가
+- 체인지로그 보기 기능 추가
+- 채널 카테고리 추가
+- 배경화면 설정 기능 추가
+- 테마 기능 추가
+- ActionbarActivity 형식의 바이오그래피를 Fragment 로 수정
+- 수상 내역 업데이트
+- Android PagerSlidingTabStrip 라이브러리 사용
+- 불필요 파일 삭제
+- UI 개편
+- 오타 수정
+
+
+[BUILD_Ska8er_Boi]
+
+- UI 개선 (구글 최신 UI, Material Design)
+- 디스코그래피, 필모그래피, SNS 탭 디자인 변경
+- 필모그래피 내용 추가
+- 수상 내역 업데이트
+- 라이센스 업데이트 (ListViewAnimations, Nineoldandroids, Ion, MaterialDialog, Gson, Picasso)
+- 액션바 색상 설정 기능 삭제 (액션바 대신 툴바를 사용합니다)
+- 번역 추가 (일본어, 포르투갈어, 이탈리아어)
+- 앱 권한 추가 (배경화면 설정 권한이므로 안심하세요!)
+- 안드로이드 5.0 대응
+- 불필요 파일 삭제
+- 오타 수정
+
+
+[BUILD_I'm_With_You]
+
+- UI 개선
+- 라이센스 업데이트 (Picasso, AndroidAsync, MaterialRippleLayout)
+- 앱 테마 설정 기능 추가
+- 액션바 색상 설정 기능 추가
+- Proguard (앱 소스 보안 기능) 추가
+- 번역 추가 (에스파냐어, 프랑스어, 러시아어, 터키어)
+- 불필요 파일 삭제
+- 앱 퍼포먼스 최적화
+- 오타 수정
+
+
+================ English ================
+
+[BUILD_Complicated]
+
+- Added license menu to setting
+- Added Changelog menu to setting
+- Added Channel category to Navigation Drawer
+- Added wallpaper setting menu (It's an experimental function)
+- Added theme function
+- Form of Biography tabs were changed. (ActionbarActivity -> Fragment)
+- Updated Awards
+- Now use Android PagerSlidingTabStrip Library
+- Deleted unused files
+- Improved UI
+- Fixed typos
+
+
+[BUILD_Ska8er_Boi]
+
+- Improved UI (Android 5.0 - Material Design)
+- Changed Discography, Filmography, SNS tab design
+- Updated filmography
+- Updated Awards
+- Updated license (ListViewAnimations, Nineoldandroids, Ion, MaterialDialog, Gson, Picasso)
+- Deleted actionbar color function (Because we now use Toolbar)
+- Added translations (Japanese, Italian, Portuguese)
+- Added permissions (Don't be scared! It's just wallpaper permission for future function)
+- Now supports Android 5.0
+- Deleted unused files
+- Fixed typos
+
+
+[BUILD_I'm_With_You]
+
+- UI 개선
+- 라이센스 업데이트 (Picasso, AndroidAsync, MaterialRippleLayout)
+- 앱 테마 설정 기능 추가
+- 액션바 색상 설정 기능 추가
+- Proguard (앱 소스 보안 기능) 추가
+- 번역 추가 (에스파냐어, 프랑스어, 러시아어, 터키어)
+- Improved application's speed
+- Deleted unused files
+- Fixed typos

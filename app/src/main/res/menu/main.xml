@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:illusion="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_menu_back"
+        illusion:showAsAction="always"
+        android:title="@string/back"/>
+    
+    <item
+        android:id="@+id/forward"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_menu_forward"
+        illusion:showAsAction="always"
+        android:title="@string/forward"/>
+    
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_menu_rotate"
+        illusion:showAsAction="always"
+        android:title="@string/refresh"/>
+
+</menu>
