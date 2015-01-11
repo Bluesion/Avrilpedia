@@ -1,5 +1,6 @@
-Avrilpedia (¶óºóÇÇµğ¾Æ) for Android
-Copyright (c) 2015 Woncheol Yang (¾ç¿øÃ¶)
+Avrilpedia (ë¼ë¹ˆí”¼ë””ì•„)
+----------
+Copyright (c) 2015 Woncheol Yang (ì–‘ì›ì² )
 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this work except in compliance with the License.
@@ -16,7 +17,7 @@ Copyright (c) 2015 Woncheol Yang (¾ç¿øÃ¶)
 
 ====================
 
-[Avrilpedia (¶óºóÇÇµğ¾Æ) : Third Party Notices]
+[Avrilpedia (ë¼ë¹ˆí”¼ë””ì•„) : Third Party Notices]
 
 
 This software includes following software components, which were obtained under the following terms and conditions: 
